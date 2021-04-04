@@ -1,0 +1,94 @@
+/********** Base styles **********/
+* {
+  	box-sizing: border-box;
+  	font-family: Comic Sans MS;
+}
+
+h1 {
+  	text-align: center;
+  	font-size: 175%;
+  	margin: 30px;
+}
+
+.box {
+  	background-color: silver;
+  	border: 2px solid black;
+  	margin: 10px;
+}
+
+h3 {
+	position: relative;
+	border: 2px solid black;
+	text-align: center;
+	margin: -2px;
+	padding: 5px;
+	width: 100px;
+	float: right;
+	font-size: 125%;
+}
+
+p {
+  	width: 80%;
+  	margin-right: auto;
+  	margin-left: auto;
+  	clear: right;
+}
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+
+#h1 {
+	background-color: pink;
+}
+
+#h2 {
+	background-color: red;
+	color: white;
+}
+
+#h3 {
+	background-color: yellow;
+}
+
+/********** Desktop devices only **********/
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+  }
+  
+  .col-lg-4 {
+    width: 33.33%;
+  }
+
+}
+
+/********** Tablet devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-6, .col-md-12 {
+    float: left;
+    /*border: 1px solid black;*/
+  }
+  
+  .col-md-6 {
+    width: 50%;
+  }
+
+  .col-md-12 {
+    width: 100%;
+  }
+  
+}
+
+/********** Moble devices only **********/
+@media (max-width: 767px) {
+  .col-sm-12 {
+    float: left;
+  }
+  
+  .col-sm-12 {
+    width: 100%;
+  }
+
+}
