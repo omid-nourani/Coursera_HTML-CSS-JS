@@ -1,0 +1,45 @@
+body {
+  	font-family: Comic Sans MS;
+  	font-weight: bold;
+}
+
+.navbar {
+	background-color: lightgrey;
+	border-radius: 0;
+	border-width: 3px;
+	border-color: black;
+}
+
+.navbar-brand h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .65;
+	color: black;
+	font-weight: bold;
+}
+
+#collapsable-menu ul {
+	background-color: lightyellow;
+	font-size: 1.2em;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#collapsable-menu hr {
+	margin-top: 0;
+	margin-bottom: 15px;
+	border-color: grey;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.box {
+  	background-color: silver;
+  	font-size: 18px;
+  	font-weight: normal;
+  	margin: 10px;
+  	padding: 5px 15px 5px 15px;
+}
