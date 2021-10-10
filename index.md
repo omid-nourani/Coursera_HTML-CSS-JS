@@ -9,10 +9,10 @@ Below please find my solutions for the course assignments :
 
 4- [My solution for assignment of module 5](https://omid-nourani.github.io/Coursera_HTML-CSS-JS/module5-solution/)
 
-Thanks for your visit,
-
+Thank you for your visit
 
 Omid Nourani
+
 
 --------------------------
 
