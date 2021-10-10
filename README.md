@@ -1,7 +1,7 @@
 # Coursera_HTML-CSS-JS
 A repository for my assignments of "HTML, CSS, and Javascript for Web Developers" course in Coursera.
 
-## Welcome to My GitHub Page 
+### Welcome to My GitHub Page 
 Below please find my solutions for the course assignments :
 
 1- [My solution for assignment of module 2](https://omid-nourani.github.io/Coursera_HTML-CSS-JS/module2-solution/)
