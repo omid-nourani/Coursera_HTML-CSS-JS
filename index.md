@@ -11,9 +11,8 @@ Below please find my solutions for the course assignments :
 
 Thanks for your visit,
 
-Omid Nourani
 
---------------------------
+Omid Nourani
 
 --------------------------
 
