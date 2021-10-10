@@ -1,3 +1,13 @@
+## Welcome to My GitHub Page 
+Below please find my solutions for the course assignments :
+
+1- [My solution for assignment of module 2](https://omid-nourani.github.io/Coursera_HTML-CSS-JS/module2-solution/)
+
+Thanks for your visit,
+Omid Nourani
+
+--------------------------
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/omid-nourani/Coursera_HTML-CSS-JS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
